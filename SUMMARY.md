@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [О книге](README.md)
 * [Об авторе](about.md)
 * [Введение](introduction.md)
 * [Предисловие](foreword.md)
